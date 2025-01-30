@@ -1,0 +1,14 @@
+[13-Jan-2025 18:04:13 UTC] PHP Warning:  Undefined property: stdClass::$meta_keywords in /home/awsstart/domains/idexlabs.io/public_html/app/controllers/l/Link.php on line 479
+[13-Jan-2025 18:04:13 UTC] PHP Warning:  Undefined property: stdClass::$scroll_buttons_is_enabled in /home/awsstart/domains/idexlabs.io/public_html/themes/altum/views/l/partials/biolink_scroll_buttons.php on line 3
+[13-Jan-2025 18:04:13 UTC] PHP Warning:  Undefined property: stdClass::$share_is_enabled in /home/awsstart/domains/idexlabs.io/public_html/themes/altum/views/l/partials/biolink_share.php on line 3
+[13-Jan-2025 18:04:13 UTC] PHP Warning:  Undefined property: stdClass::$verified_location in /home/awsstart/domains/idexlabs.io/public_html/themes/altum/views/l/biolink_blocks/heading.php on line 5
+[13-Jan-2025 18:04:13 UTC] PHP Warning:  Undefined property: stdClass::$verified_location in /home/awsstart/domains/idexlabs.io/public_html/themes/altum/views/l/biolink_blocks/heading.php on line 14
+[13-Jan-2025 18:04:13 UTC] PHP Warning:  Undefined property: stdClass::$border_radius in /home/awsstart/domains/idexlabs.io/public_html/themes/altum/views/l/biolink_blocks/paragraph.php on line 4
+[13-Jan-2025 18:04:13 UTC] PHP Warning:  Undefined property: stdClass::$border_width in /home/awsstart/domains/idexlabs.io/public_html/themes/altum/views/l/biolink_blocks/paragraph.php on line 5
+[13-Jan-2025 18:04:13 UTC] PHP Warning:  Undefined property: stdClass::$background_color in /home/awsstart/domains/idexlabs.io/public_html/themes/altum/views/l/biolink_blocks/paragraph.php on line 5
+[13-Jan-2025 18:26:21 UTC] PHP Warning:  Undefined property: stdClass::$blog_post_id in /home/awsstart/domains/idexlabs.io/public_html/themes/altum/views/blog/blog_rss.php on line 22
+[13-Jan-2025 18:26:21 UTC] PHP Warning:  Undefined property: stdClass::$blog_post_id in /home/awsstart/domains/idexlabs.io/public_html/themes/altum/views/blog/blog_rss.php on line 22
+[13-Jan-2025 18:26:21 UTC] PHP Warning:  Undefined property: stdClass::$blog_post_id in /home/awsstart/domains/idexlabs.io/public_html/themes/altum/views/blog/blog_rss.php on line 22
+[13-Jan-2025 21:18:43 UTC] PHP Warning:  Undefined property: stdClass::$blog_post_id in /home/awsstart/domains/idexlabs.io/public_html/themes/altum/views/blog/blog_rss.php on line 22
+[13-Jan-2025 21:18:43 UTC] PHP Warning:  Undefined property: stdClass::$blog_post_id in /home/awsstart/domains/idexlabs.io/public_html/themes/altum/views/blog/blog_rss.php on line 22
+[13-Jan-2025 21:18:43 UTC] PHP Warning:  Undefined property: stdClass::$blog_post_id in /home/awsstart/domains/idexlabs.io/public_html/themes/altum/views/blog/blog_rss.php on line 22

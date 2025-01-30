@@ -1,0 +1,2 @@
+[18-Jan-2025 17:36:11 UTC] PHP Warning:  Undefined property: stdClass::$domains in /home/awsstart/domains/idexlabs.io/public_html/themes/altum/views/links/links_content.php on line 167
+[18-Jan-2025 17:36:11 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/awsstart/domains/idexlabs.io/public_html/themes/altum/views/links/links_content.php on line 167

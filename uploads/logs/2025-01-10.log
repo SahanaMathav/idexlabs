@@ -1,0 +1,5 @@
+[10-Jan-2025 03:52:16 UTC] PHP Warning:  Undefined property: stdClass::$domains in /home/awsstart/domains/idexlabs.io/public_html/themes/altum/views/links/links_content.php on line 167
+[10-Jan-2025 03:52:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/awsstart/domains/idexlabs.io/public_html/themes/altum/views/links/links_content.php on line 167
+[10-Jan-2025 10:01:59 Etc/UTC] PHP Parse error:  syntax error, unexpected single-quoted string "global.custom_css", expecting "]" in /home/awsstart/domains/idexlabs.io/public_html/app/languages/english#en.php on line 120
+[10-Jan-2025 10:02:12 Etc/UTC] PHP Parse error:  syntax error, unexpected single-quoted string "global.custom_css", expecting "]" in /home/awsstart/domains/idexlabs.io/public_html/app/languages/english#en.php on line 120
+[10-Jan-2025 10:02:25 Etc/UTC] PHP Parse error:  syntax error, unexpected single-quoted string "global.custom_css", expecting "]" in /home/awsstart/domains/idexlabs.io/public_html/app/languages/english#en.php on line 120
